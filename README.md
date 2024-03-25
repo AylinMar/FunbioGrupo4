@@ -10,6 +10,7 @@
 ### Callupe Quispe Anthony Frank
 
 ### Janampa Figueroa Aylin Marisol 
+#### Editora
 
 ### Valencia Torres Edward Leonardo
 
