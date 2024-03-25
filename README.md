@@ -5,6 +5,7 @@
 ### Chunga Rodriguez Megan Suyay
 
 ### Rojas Ibañez Cesar Hipolito
+#### Coordinador 
 
 ### Callupe Quispe Anthony Frank
 
