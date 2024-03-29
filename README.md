@@ -25,5 +25,6 @@
 > * **Valencia Torres Edward Leonardo**
 >
 >   (_Encargado de Programación_)
-> 
+>
+## Conóce al Equipo
 
