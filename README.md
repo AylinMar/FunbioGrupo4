@@ -31,5 +31,5 @@
 ### <p align="center"> Megan Suyay Chunga Rodriguez </p>
 ### <p align="center"> Aylin Marisol Janampa Figueroa </p>
 ![Error](https://as1.ftcdn.net/v2/jpg/00/88/12/38/1000_F_88123817_CHxiS9Fr5kKKfIwqAF7J1OkGhYD0waly.jpg "title")
-### <p align="center"> César Hipolito Rojas Ibañez </p>
+### <p align="center"> César Hipolito Rojas Ibañez </p> 
 ### <p align="center"> Edward Leonardo Valencia Torres </p>
