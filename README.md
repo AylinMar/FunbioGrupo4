@@ -30,6 +30,6 @@
 ### <p align="center"> Anthony Frank Callupe Quispe </p>
 ### <p align="center"> Megan Suyay Chunga Rodriguez </p>
 ### <p align="center"> Aylin Marisol Janampa Figueroa </p>
-![Error](https://drive.google.com/file/d/1kNk7mji8ax0VLDTo88tnd9Yx7wFN5COu/view?usp=drive_link "title")
+![Error](https://as1.ftcdn.net/v2/jpg/00/88/12/38/1000_F_88123817_CHxiS9Fr5kKKfIwqAF7J1OkGhYD0waly.jpg "title")
 ### <p align="center"> César Hipolito Rojas Ibañez </p>
 ### <p align="center"> Edward Leonardo Valencia Torres </p>
