@@ -1,4 +1,5 @@
-# Fundamentos de Biodiseño
+# <p align="center"> Fundamentos de Biodiseño </p>
+
 //descripcion del curso
 
 ## Integrantes
