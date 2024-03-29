@@ -18,7 +18,7 @@
 >
 >   (_Responsable del diseño 3D y Adjunta de edición_)
 >   
-> * **Cesar Hipolito Rojas Ibañez**
+> * **César Hipolito Rojas Ibañez**
 >
 >   (_Coordinador, Encargado de Electrónica y Redacción_)
 >   
@@ -27,4 +27,8 @@
 >   (_Encargado de Programación_)
 >
 ## Conócenos
-
+### Anthony Frank Callupe Quispe
+### Megan Suyay Chunga Rodriguez
+### Aylin Marisol Janampa Figueroa
+### César Hipolito Rojas Ibañez
+### Edward Leonardo Valencia Torres
