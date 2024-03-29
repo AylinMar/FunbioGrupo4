@@ -6,22 +6,22 @@
  
 ## Integrantes
 
+> * **Callupe Quispe Anthony Frank**
+>
+>   (_Adjunto de Programación y Encargado de Ensamblaje_)
+>   
 > * **Chunga Rodriguez Megan Suyay**
 >
 >   (_Encargada de Edición_)
-> 
-> * **Rojas Ibañez Cesar Hipolito**
->
->   (_Coordinador, Encargado de Electrónica y Redacción_)
-> 
-> * **Callupe Quispe Anthony Frank**
->
->   (_Encargado de Ensamblaje_)
-> 
+>   
 > * **Janampa Figueroa Aylin Marisol**
 >
 >   (_Responsable del diseño 3D y Adjunta de edición_)
-> 
+>   
+> * **Rojas Ibañez Cesar Hipolito**
+>
+>   (_Coordinador, Encargado de Electrónica y Redacción_)
+>   
 > * **Valencia Torres Edward Leonardo**
 >
 >   (_Encargado de Programación_)
