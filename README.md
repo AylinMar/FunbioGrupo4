@@ -6,14 +6,17 @@
  
 ## Integrantes
 ### Chunga Rodriguez Megan Suyay
+#### Encargada de Edición
 
 ### Rojas Ibañez Cesar Hipolito
-#### Coordinador 
+#### Coordinador y encargado de Redacción
 
 ### Callupe Quispe Anthony Frank
+#### Encargado de Ensamblaje      
 
 ### Janampa Figueroa Aylin Marisol 
-#### Editora
+#### Responsable del diseño 3D
 
 ### Valencia Torres Edward Leonardo
+#### Encargado de Programación 
 
