@@ -6,23 +6,23 @@
  
 ## Miembros del Equipo 4
 
-> * **Callupe Quispe Anthony Frank**
+> * **Anthony Frank Callupe Quispe**
 >
 >   (_Adjunto de Programación y Encargado de Ensamblaje_)
 >   
-> * **Chunga Rodriguez Megan Suyay**
+> * **Megan Suyay Chunga Rodriguez**
 >
 >   (_Encargada de Edición_)
 >   
-> * **Janampa Figueroa Aylin Marisol**
+> * **Aylin Marisol Janampa Figueroa**
 >
 >   (_Responsable del diseño 3D y Adjunta de edición_)
 >   
-> * **Rojas Ibañez Cesar Hipolito**
+> * **Cesar Hipolito Rojas Ibañez**
 >
 >   (_Coordinador, Encargado de Electrónica y Redacción_)
 >   
-> * **Valencia Torres Edward Leonardo**
+> * **Edward Leonardo Valencia Torres**
 >
 >   (_Encargado de Programación_)
 >
