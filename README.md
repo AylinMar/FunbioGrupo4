@@ -1,6 +1,6 @@
 # <p align="center"> Fundamentos de Biodiseño </p>
 
-//descripcion del curso
+## descripcion del curso
 
 ## Integrantes
 ### Chunga Rodriguez Megan Suyay
