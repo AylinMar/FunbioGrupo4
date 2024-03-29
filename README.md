@@ -27,8 +27,8 @@
 >   (_Encargado de Programación_)
 >
 ## Conócenos
-### Anthony Frank Callupe Quispe
-### Megan Suyay Chunga Rodriguez
-### Aylin Marisol Janampa Figueroa
-### César Hipolito Rojas Ibañez
-### Edward Leonardo Valencia Torres
+### <p align="center"> Anthony Frank Callupe Quispe </p>
+### <p align="center"> Megan Suyay Chunga Rodriguez </p>
+### <p align="center"> Aylin Marisol Janampa Figueroa </p>
+### <p align="center"> César Hipolito Rojas Ibañez </p>
+### <p align="center"> Edward Leonardo Valencia Torres </p>
