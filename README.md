@@ -2,6 +2,8 @@
 
 ## Descripcion del curso
 
+>> El curso de Fundamentos de Biodiseño tiene por objetivo introducir al estudiante de Ingeniería Biomédica en el proceso de diseño y elaboración de propuestas tecnológicas en salud desarrolladas con el fin de resolver una problemática relevante para la sociedad. 
+
 ## Integrantes
 ### Chunga Rodriguez Megan Suyay
 
