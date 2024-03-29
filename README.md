@@ -8,22 +8,22 @@
 
 > * **Chunga Rodriguez Megan Suyay**
 >
->       (_Encargada de Edición_)
+>   (_Encargada de Edición_)
 > 
 > * **Rojas Ibañez Cesar Hipolito**
 >
->       (_Coordinador, Encargado de Electrónica y Redacción_)
+>   (_Coordinador, Encargado de Electrónica y Redacción_)
 > 
 > * **Callupe Quispe Anthony Frank**
 >
->       (_Encargado de Ensamblaje_)
+>   (_Encargado de Ensamblaje_)
 > 
 > * **Janampa Figueroa Aylin Marisol**
 >
->       (_Responsable del diseño 3D y Adjunta de edición_)
+>   (_Responsable del diseño 3D y Adjunta de edición_)
 > 
 > * **Valencia Torres Edward Leonardo**
 >
->       (_Encargado de Programación_)
+>   (_Encargado de Programación_)
 > 
 
