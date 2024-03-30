@@ -13,7 +13,7 @@
 >   
 > * **Megan Suyay Chunga Rodriguez**
 >
->   (_Encargada de Edición_)
+>   (_Encargada de Edición y Adjunta de Coordinación_)
 >   
 > * **Aylin Marisol Janampa Figueroa**
 >
@@ -25,7 +25,7 @@
 >   
 > * **Edward Leonardo Valencia Torres**
 >
->   (_Encargado de Programación_)
+>   (_Encargado de Programación y Adjunto de Electronica_)
 >
 ## Conócenos
 ### <p align="center"> Anthony Frank Callupe Quispe </p>
