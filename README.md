@@ -28,10 +28,11 @@
 >   (_Encargado de Programación y Adjunto de Electronica_)
 >
 ## Conócenos
-<p align="center"> <img src=Aqui debes colocar tu link width="30%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/main/Fotos%20del%20Equipo/foto-anthony.jpg width="30%"> </p>
 
 ### <p align="center"> Anthony Frank Callupe Quispe </p>
-Descripcion personal...
+Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia, comprometido con el desarrollo de soluciones innovadoras que ayuden positivamente la salud y el bienestar de la persona. Interesado en el área de Biomecánica y Rehabilitación e Ingeniería de tejidos.
+Mi participación  en este proyecto se centra en ensamblar los componentes, piezas del dispostivo y que se interconecten de manera correcta y segura.
 
 <p align="center"> <img src=Aqui debes colocar tu link width="30%"> </p>
 
