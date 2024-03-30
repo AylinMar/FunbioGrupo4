@@ -41,7 +41,7 @@ Mi participación  en este proyecto se centra en ensamblar los componentes, piez
 Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia.
 
 
-<p align="center"> <img src=Aqui debes colocar tu link width="30%"> </p>
+<p align="center"> <img src=(https://github.com/AylinMar/FunbioGrupo4/blob/0d6601b4ed70ced1e2b90a7dc4b4a6b108cc1447/Fotos%20del%20Equipo/PHOTO-2023-09-20-23-24-59%203.JPG) width="30%"> </p>
 
 ### <p align="center"> Aylin Marisol Janampa Figueroa </p>
 Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia.
