@@ -31,6 +31,6 @@
 ### <p align="center"> Anthony Frank Callupe Quispe </p>
 ### <p align="center"> Megan Suyay Chunga Rodriguez </p>
 ### <p align="center"> Aylin Marisol Janampa Figueroa </p>
-<img src=https://github.com/AylinMar/FunbioGrupo4/blob/f51ed3fa2172d41d05a216b60724b6b404b5dd90/Fotos%20del%20Equipo/foto%20Cesar.jpg width="40%">
+<img src=https://github.com/AylinMar/FunbioGrupo4/blob/f51ed3fa2172d41d05a216b60724b6b404b5dd90/Fotos%20del%20Equipo/foto%20Cesar.jpg width="30%">
 ### <p align="center"> César Hipolito Rojas Ibañez </p> 
 ### <p align="center"> Edward Leonardo Valencia Torres </p>
