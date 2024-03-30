@@ -33,6 +33,6 @@
 ### <p align="center"> Aylin Marisol Janampa Figueroa </p>
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/f51ed3fa2172d41d05a216b60724b6b404b5dd90/Fotos%20del%20Equipo/foto%20Cesar.jpg width="30%"> </p>
 
-### <p align="center"> **César Hipolito Rojas Ibañez** </p> 
+### <p align="center"> **César Hipolito Rojas Ibañez**  </p> 
 Estudiante de Ingenieria Biomédica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia. Co-desarrollador del prototipo de aplicativo "Asistente Neonatal Interactivo para el tratamiento de Asfixia Neonatal" (ANITA) en el marco del curso de _Procesos de Innovación de Bioingenieria_. Co-desarrollador del prototipo LOUDY para la rehabilitación de pacientes con parkinson y disartria hipocinética en el marco del curso de _Diseño Industrial_.
 ### <p align="center"> Edward Leonardo Valencia Torres </p>
