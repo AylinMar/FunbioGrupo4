@@ -44,7 +44,8 @@ Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Per√
 <p align="center"> <img src=Aqui debes colocar tu link width="30%"> </p>
 
 ### <p align="center"> Aylin Marisol Janampa Figueroa </p>
-Descripcion personal...
+Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Per√∫ y la Universidad Peruana Cayetano Heredia.
+
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/f51ed3fa2172d41d05a216b60724b6b404b5dd90/Fotos%20del%20Equipo/foto%20Cesar.jpg width="30%"> </p>
 
