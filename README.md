@@ -34,12 +34,14 @@
 Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia, comprometido con el desarrollo de soluciones innovadoras que ayuden positivamente la salud y el bienestar de la persona. Interesado en el área de Biomecánica y Rehabilitación e Ingeniería de tejidos.
 Mi participación  en este proyecto se centra en ensamblar los componentes, piezas del dispostivo y que se interconecten de manera correcta y segura.
 
-<p align="center"> <img src=Aqui debes colocar tu link width="30%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/edc241303c95061910510a9596632d5797de373c/Fotos%20del%20Equipo/20231109_201855.jpg width="30%"> </p>
 
 ### <p align="center"> Megan Suyay Chunga Rodriguez </p>
-Descripcion personal...
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/edc241303c95061910510a9596632d5797de373c/Fotos%20del%20Equipo/20231109_201855.jpg width="30%"> </p>
+Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia.
+
+
+<p align="center"> <img src=Aqui debes colocar tu link width="30%"> </p>
 
 ### <p align="center"> Aylin Marisol Janampa Figueroa </p>
 Descripcion personal...
