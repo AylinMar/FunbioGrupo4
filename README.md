@@ -51,7 +51,7 @@ Descripcion personal...
 ### <p align="center"> César Hipolito Rojas Ibañez </p> 
 Estudiante de Ingenieria Biomédica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia. Co-desarrollador del prototipo de aplicativo "Asistente Neonatal Interactivo para el tratamiento de Asfixia Neonatal" (ANITA) en el marco del curso de _Procesos de Innovación de Bioingenieria_. Co-desarrollador del prototipo LOUDY para la rehabilitación de pacientes con parkinson y disartria hipocinética en el marco del curso de _Diseño Industrial_.
 
-<p align="center"> <img src=Aqui debes colocar tu link width="30%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/766cb0d4210b5a70771a0a16dc9dc12de35908f3/Fotos%20del%20Equipo/foto%20funbio.jpg width="30%"> </p>
 
 ### <p align="center"> Edward Leonardo Valencia Torres </p>
 Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia, interesado en la rama de Ingenieria de la biomecánica y rehabilitación . Mi rol en el proyecto del curso de Fundamentos de Biodiseño se basa en el correcto desarrollo del área de programación del dispositivo. 
