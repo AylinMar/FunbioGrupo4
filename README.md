@@ -43,7 +43,9 @@ Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Per�
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/0d6601b4ed70ced1e2b90a7dc4b4a6b108cc1447/Fotos%20del%20Equipo/PHOTO-2023-09-20-23-24-59%203.JPG width="30%"> </p>
 
 ### <p align="center"> Aylin Marisol Janampa Figueroa </p>
-Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia.
+Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia, apasionada en seguir aprendiendo sobre temas de diversas áreas relacionadas a la Ingeniería biomedica, salud pública, tecnologia; con un interes especial en la ingeniería de tejidos y la biotecnología. 
+En lo personal cuento con gran gusto por los gatos, me gusta dibujar,y con experiencia sobre el desing thinking obtenida a lo largo de los cursosy sus respectivos proyectos como de programas de la universidad; por lo que aplicare todos mis conocimentos al curso de Funbio, para sacar el proyecto de nuestro equipo adelante.
+Estoy espectante por lo que aprenderé a lo largo del curso y de como podré aplicarlo mas adelante.
 
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/f51ed3fa2172d41d05a216b60724b6b404b5dd90/Fotos%20del%20Equipo/foto%20Cesar.jpg width="30%"> </p>
