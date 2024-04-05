@@ -52,7 +52,7 @@ Estoy espectante por lo que aprenderé a lo largo del curso y de como podré apl
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/f51ed3fa2172d41d05a216b60724b6b404b5dd90/Fotos%20del%20Equipo/foto%20Cesar.jpg width="30%"> </p>
 
 ### <p align="center"> César Hipolito Rojas Ibañez </p> 
-Estudiante de Ingenieria Biomédica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia. Co-desarrollador del prototipo de aplicativo "Asistente Neonatal Interactivo para el tratamiento de Asfixia Neonatal" (ANITA) en el marco del curso de _Procesos de Innovación de Bioingenieria_. Co-desarrollador del prototipo LOUDY para la rehabilitación de pacientes con parkinson y disartria hipocinética en el marco del curso de _Diseño Industrial_.
+Estudiante de Ingenieria Biomédica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia. Co-desarrollador del prototipo de aplicativo "Asistente Neonatal Interactivo para el tratamiento de Asfixia Neonatal" (ANITA) en el marco del curso de _Procesos de Innovación de Bioingenieria_. Co-desarrollador del prototipo LOUDY para la rehabilitación de pacientes con parkinson y disartria hipocinética en el marco del curso de _Diseño Industrial_. En el marco de este curso, mi meta es desarrollar un protipo funcional, ergonomico e innovador.
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/766cb0d4210b5a70771a0a16dc9dc12de35908f3/Fotos%20del%20Equipo/foto%20funbio.jpg width="30%"> </p>
 
