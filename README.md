@@ -37,7 +37,8 @@ Mi participación  en este proyecto se centra en ensamblar los componentes, piez
 
 ### <p align="center"> Megan Suyay Chunga Rodriguez </p>
 
-Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia.
+Estudiante de Ingenieria Biomedica de la Pontifica Universidad Catolica del Perú y la Universidad Peruana Cayetano Heredia.Estoy interesada en el área de Ingeneria de tejidos y Biomecanica.
+En este proyecto estaré encargada de la edición y apoyaré en lo máximo a que nuestro proyecto se concrete de manera exitosa.
 
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/0d6601b4ed70ced1e2b90a7dc4b4a6b108cc1447/Fotos%20del%20Equipo/PHOTO-2023-09-20-23-24-59%203.JPG width="30%"> </p>
