@@ -7,7 +7,7 @@
 
 ### Fetal Heartbeat Detector
 > Este dispositivo medico portátil cuenta con un indicador de batería que alerta a los usuarios cuando es necesario reemplazar las pilas, su Pantalla LCD azul retroiluminada y de alto contraste, permite mostrar la información cardiaca en latidos por minuto, Ademas su  frecuencia de ultrasonido de 2.5 Mhz lo hace un instrumento adecuado y de gran precisión para la lectura de la frecuencia cardiaca.
-><p align="center"> <img src=https://www.mdperu.com/wp-content/uploads/2021/04/TARJETAS-DE-PRODUCTOS-08.png width="40%"> </p>
+><p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/main/Documentaci%C3%B3n/Imagenes/image2.png width="40%"> </p>
 >Es tan compacto que cabe en la palma de tu mano y pesa apenas unos pocos gramos, La interfaz intuitiva del JPD-100B hace que sea muy fácil de usar, incluso para aquellas personas que no estén familiarizadas con la tecnología médica. Los controles simples te permiten ajustar el volumen y encontrar la mejor posición para escuchar los latidos fetales.
 
 ### Bellybuds BellyPhones
