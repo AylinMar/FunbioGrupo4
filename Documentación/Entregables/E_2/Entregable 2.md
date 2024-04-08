@@ -1,6 +1,6 @@
 # Estado del Arte Comercial:
 
-### JPD-100S Doppler fetal AngelSounds:
+### Doppler fetal AngelSounds:
 >Es conocido por su precisión y facilidad de uso, este monitor fetal Doppler permite a los padres escuchar los latidos cardíacos de su bebé en cualquier momento, ya sea en casa o mientras están de viaje. Cuenta con un diseño compacto y una pantalla LCD para mostrar la frecuencia cardíaca. Su precio oscila entre los $40 y $80 dolares.
 ><p align="center"> <img src=https://jumpermmed.com/wp-content/uploads/2022/09/100S-2.webp width="40%"> </p>
 >El dispositivo funciona con pilas y un cableado simple que se puede colocar en los oídos. Además, cuenta con controles para ajustar el volumen de los latidos cardíacos según las preferencias del usuario. Su diseño ligero, con un peso de tan solo 290 gramos, lo convierte en un dispositivo altamente portátil y conveniente para usar en cualquier momento y lugar.
