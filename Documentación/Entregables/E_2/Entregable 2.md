@@ -12,5 +12,5 @@
 
 ### Bellybuds BellyPhones
 >Son auriculares especialmente diseñados para colocarse en el vientre de la madre y permitirle escuchar los sonidos, incluidos los latidos del feto y compartir música y voces con el bebé en desarrollo en el vientre. Son seguros de usar y están fabricados con materiales suaves y no tóxicos para garantizar la comodidad para la madre y para el bebé, su precio se encuenetra en el rango de $30 y $40 dolares.
-><p align="center"> <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-vVRX8UR0gvlz6GFuxHowss37IhKT3UUO56CWbxgtYRuJKFZZds50HUlZvWfJHn3jEo&usqp=CAU width="40%"> </p>
+><p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/main/Documentaci%C3%B3n/Imagenes/image3.jpg width="40%"> </p>
 >Es fácil de ocultar debajo de la ropa de las madres mientras realizan sus actividades diarias, compatible con una variedad de aplicaciones de audio para teléfonos celulares y tiene la capacidad de conectarse con dispositivos de reproducción de música, tales como reproductores de MP3 y tabletas.
