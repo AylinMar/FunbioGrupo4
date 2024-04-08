@@ -5,7 +5,7 @@
 ><p align="center"> <img src=https://jumpermmed.com/wp-content/uploads/2022/09/100S-2.webp width="40%"> </p>
 >El dispositivo funciona con pilas y un cableado simple que se puede colocar en los oídos. Además, cuenta con controles para ajustar el volumen de los latidos cardíacos según las preferencias del usuario. Su diseño ligero, con un peso de tan solo 290 gramos, lo convierte en un dispositivo altamente portátil y conveniente para usar en cualquier momento y lugar.
 
-### JPD-100B Fetal Heartbeat Detector
+### Fetal Heartbeat Detector
 > Este dispositivo medico portátil cuenta con un indicador de batería que alerta a los usuarios cuando es necesario reemplazar las pilas, su Pantalla LCD azul retroiluminada y de alto contraste, permite mostrar la información cardiaca en latidos por minuto, Ademas su  frecuencia de ultrasonido de 2.5 Mhz lo hace un instrumento adecuado y de gran precisión para la lectura de la frecuencia cardiaca.
 ><p align="center"> <img src=https://www.mdperu.com/wp-content/uploads/2021/04/TARJETAS-DE-PRODUCTOS-08.png width="40%"> </p>
 >Es tan compacto que cabe en la palma de tu mano y pesa apenas unos pocos gramos, La interfaz intuitiva del JPD-100B hace que sea muy fácil de usar, incluso para aquellas personas que no estén familiarizadas con la tecnología médica. Los controles simples te permiten ajustar el volumen y encontrar la mejor posición para escuchar los latidos fetales.
