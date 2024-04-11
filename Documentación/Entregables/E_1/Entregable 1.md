@@ -1,16 +1,16 @@
 # <p align="center"> Entregable 1 </p>
 # Tabla de contenido
 * **Empatizar**
-> * Contexto
+> 1. Contexto
 > 
-> * Mapa de actores
+> 2. Mapa de actores
 > 
 * **Definir**
-> * Diagrama de Ishikawa
+> 3. Diagrama de Ishikawa
 > 
-> * Journey Map
+> 4. Journey Map
 > 
-> * Generación del Insight (5 porqués)
+> 5. Generación del Insight (5 porqués)
 >
-> * Definición del problema
+> 6. Definición del problema
 > 
