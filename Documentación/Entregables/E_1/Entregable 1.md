@@ -67,13 +67,17 @@ Asimismo, se procedió a identificar el insight principal de a problemática a t
 
 ## 5. Definición del problema
 Con la información recolectada se procedió a plantear la problematica a desarrollar por el equipo:
-
+>.
 ### <p align="center"> ¿Cómo podriamos mejorar el monitoreo materno fetal domiciliario de las gestantes de zonas rurales del país para reducir el tiempo de búsqueda de atención en establecimientos de salud?  </p>
-
+>.
 ## 6. Revisión de la bibliografía científica
 
-Articulo 1. 
+### Articulo 1. 
+### <p align="center"> Monitoreo fetal con auscultación intermitente durante el trabajo de parto: una revisión sistemática del alcance para identificar métodos, efectos y precisión </p>
 
+Resumen: 
+
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/b6a11322723f5ec3ca2cf2447ad20f7af33f096d/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/primer%20paper.png width="90%"> </p> 
 
 [^1]:CDC. Situación epidemiologica de la mortalidad materna en el Perú. Disponible en: https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2023/SE042023/03.pdf. Revisado el 10 de abril del 2024. 
 [^2]:CDC. Boletín Epidemiológico del Perú SE 26-2022. Disponible en: https://www.dge.gob.pe/epipublic/uploads/boletin/boletin_202226_26_125857.pdf. Revisado el 10 de abril del 2024.
