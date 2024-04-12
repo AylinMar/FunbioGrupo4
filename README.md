@@ -38,10 +38,10 @@
 ### <p align="center"> Encargado de la impresión, manufactura y Adjunto de Programación
 >
 >Mi participación  en este proyecto se centra en ensamblar los componentes, piezas del dispositivo y que se interconecten de manera correcta y segura.
->
->
->
->
+
+
+
+
 ><p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/edc241303c95061910510a9596632d5797de373c/Fotos%20del%20Equipo/20231109_201855.jpg width="30%"> </p>
 >
 ### <p align="center"> Megan Suyay Chunga Rodriguez </p>
@@ -51,10 +51,10 @@
 ### <p align="center"> Encargada del GitHub y Adjunta de Coordinación
 >
 >En este proyecto estaré encargada de la edición y apoyaré en lo máximo a que nuestro proyecto se concrete de manera exitosa.
->
->
->
->
+
+
+
+
 ><p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/0d6601b4ed70ced1e2b90a7dc4b4a6b108cc1447/Fotos%20del%20Equipo/PHOTO-2023-09-20-23-24-59%203.JPG width="30%"> </p>
 >
 ### <p align="center"> Aylin Marisol Janampa Figueroa </p>
@@ -66,10 +66,10 @@
 >
 >Con experiencia en dibujo, diseño 3D y el desing thinking obtenida a lo largo de los cursos con sus respectivos proyectos como de programas de la universidad; por lo que aplicare todos mis conocimentos al curso de Funbio, para sacar el proyecto de nuestro equipo adelante.
 >Estoy espectante por lo que aprenderé a lo largo del curso y de como podré aplicarlo mas adelante.
->
->
->
->
+
+
+
+
 ><p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/f51ed3fa2172d41d05a216b60724b6b404b5dd90/Fotos%20del%20Equipo/foto%20Cesar.jpg width="30%"> </p>
 >
 ### <p align="center"> César Hipolito Rojas Ibañez </p> 
@@ -80,10 +80,10 @@
 ### <p align="center"> Coordinador, Encargado de Electrónica y redacción
 >
 >En el marco de este curso, mi meta es desarrollar un protipo funcional, ergonómico e innovador.
->
->
->
->
+
+
+
+
 ><p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/766cb0d4210b5a70771a0a16dc9dc12de35908f3/Fotos%20del%20Equipo/foto%20funbio.jpg width="30%"> </p>
 >
 ### <p align="center"> Edward Leonardo Valencia Torres </p>
