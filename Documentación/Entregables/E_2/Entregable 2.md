@@ -10,7 +10,7 @@
 > 4. Idea de prototipo
 > 
 
-## 1. Estado del Arte Comercial:
+## 1. Estado del Arte Comercial
 
 ### 1. Doppler fetal AngelSounds:
 Es conocido por su precisión y facilidad de uso, este monitor fetal Doppler permite a los padres escuchar los latidos cardíacos de su bebé en cualquier momento, ya sea en casa o mientras están de viaje. Cuenta con un diseño compacto y una pantalla LCD para mostrar la frecuencia cardíaca, su sensibilidad detecta los latidos cardíacos fetales a partir de las 10 semanas de gestación. Su precio oscila entre los $40 y $80 dolares.
@@ -28,14 +28,14 @@ Son auriculares especialmente diseñados para colocarse en el vientre de la madr
 Estos auriculares suelen tener un diseño ergonómico que los hace cómodos de llevar tanto para la madre como para el feto y es fácil de ocultar debajo de la ropa de las madres mientras realizan sus actividades diarias, compatible con una variedad de aplicaciones de audio para teléfonos celulares y tiene la capacidad de conectarse con dispositivos de reproducción de música, tales como reproductores de MP3 y tabletas con conector de audio estándar de 3.5 mm.
 
 
-## 2. Patentes:
+## 2. Patentes
 
 
 
 
-## 3. Requerimientos:
+## 3. Requerimientos
 
 
 
 
-## 4. Idea de prototipo:
+## 4. Idea de prototipo
