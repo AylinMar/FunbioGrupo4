@@ -14,7 +14,8 @@
 >
 * **Estado del Arte de soluciones a la problemática**
 > 6. Revisión de la bibliografía científica.
->    
+>
+> 7. Bibliografía.   
 ## 1. Contexto
 La mortalidad materna y perinatal son problemas de salud pública relevantes en el Perú. Cada año mueren entre 300-500 gestantes debido principalmente a hemorragia y trastornos hipertensivos [^1]. Asimismo, anualmente se registran al rededor de 2500 muertes entre fetos y neonatos debido principalmente a prematuridad, malformaciones y asfixia [^2]. 
 
@@ -93,5 +94,8 @@ Con la información recolectada se procedió a plantear la problematica a desarr
 
 **Resumen**: El articulo sostiene que la monitorización fetal remota puede reducir la incidencia de asfixia neonatal y los costos de atención sanitaria en comparación con la monitorización fetal de rutina. 
 
+## 7. Bibliografía
 [^1]:CDC. Situación epidemiologica de la mortalidad materna en el Perú. Disponible en: https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2023/SE042023/03.pdf. Revisado el 10 de abril del 2024. 
 [^2]:CDC. Boletín Epidemiológico del Perú SE 26-2022. Disponible en: https://www.dge.gob.pe/epipublic/uploads/boletin/boletin_202226_26_125857.pdf. Revisado el 10 de abril del 2024.
+[^3]:Yujie Gan.Eficacia clínica y aceptabilidad de la automonitorización remota de la frecuencia cardíaca fetal en el sur de China.BMC Embarazo Parto.7 de octubre de 2023; 23 (1): 715. doi: 10.1186/s12884-023-05985-9.Disponible en: https://pubmed.ncbi.nlm.nih.gov/37805457/
+[^4]:CDC.A. M. Awiti, B. M. Shifferaw, M. B. Byamukama, R. Kizito and C. Mwikirize, "Design and implementation of an Android based digital fetoscope," 2016 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), Las Vegas, NV, USA, 2016, pp. 152-155, doi: 10.1109/BHI.2016.7455857.
