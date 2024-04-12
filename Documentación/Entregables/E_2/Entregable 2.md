@@ -29,15 +29,22 @@ Estos auriculares suelen tener un diseño ergonómico que los hace cómodos de l
 
 
 ## 2. Patentes
+.
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/ada21c901b73c48298bc909ec5be3ade7e57e167/Documentaci%C3%B3n/Entregables/E_2/Imagenes/Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2001.17.22.png
 width="100%"> </p>
-
+.
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/fa01e42ed5504194d01930fb4c085a92c2e7d22f/Documentaci%C3%B3n/Entregables/E_2/Imagenes/Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2001.17.12.png
 width="100%"> </p>
-
+.
 <p align="center"> <img 
 src=https://github.com/AylinMar/FunbioGrupo4/blob/fa01e42ed5504194d01930fb4c085a92c2e7d22f/Documentaci%C3%B3n/Entregables/E_2/Imagenes/Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2001.17.01.png width="100%"> </p>
 
 ## 3. Requerimientos
-
+.
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/ff1bde47c8e0148d625b291726a3131fdcb2771f/Documentaci%C3%B3n/Entregables/E_2/Imagenes/no%20funcionales%20Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2001.16.31.png](https://github.com/AylinMar/FunbioGrupo4/blob/bdd3d1afbe1a5ea1faf41469fe744c65ccf9cd5c/Documentaci%C3%B3n/Entregables/E_2/Imagenes/funcionales%20Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2001.16.52.png
+width="100%"> </p>
+.
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/ff1bde47c8e0148d625b291726a3131fdcb2771f/Documentaci%C3%B3n/Entregables/E_2/Imagenes/no%20funcionales%20Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2001.16.31.png
+width="100%"> </p>
+                     
 ## 4. Idea de prototipo
