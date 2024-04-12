@@ -32,11 +32,11 @@ Estos auriculares suelen tener un diseño ergonómico que los hace cómodos de l
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/ada21c901b73c48298bc909ec5be3ade7e57e167/Documentaci%C3%B3n/Entregables/E_2/Imagenes/Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2001.17.22.png
 width="100%"> </p>
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/d23da0cf2848b7c9a3ce266ed1c5fcbf43f72229/Documentaci%C3%B3n/Entregables/E_2/Imagenes/dos.pdf
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/fa01e42ed5504194d01930fb4c085a92c2e7d22f/Documentaci%C3%B3n/Entregables/E_2/Imagenes/Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2001.17.12.png
 width="100%"> </p>
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/d23da0cf2848b7c9a3ce266ed1c5fcbf43f72229/Documentaci%C3%B3n/Entregables/E_2/Imagenes/tres.pdf
-width="100%"> </p>
+<p align="center"> <img 
+src=https://github.com/AylinMar/FunbioGrupo4/blob/fa01e42ed5504194d01930fb4c085a92c2e7d22f/Documentaci%C3%B3n/Entregables/E_2/Imagenes/Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2001.17.01.png width="100%"> </p>
 
 ## 3. Requerimientos
 
