@@ -74,14 +74,14 @@ Con la información recolectada se procedió a plantear la problematica a desarr
 ## 6. Revisión de la bibliografía científica
 
 ### Articulo 1. 
-### <p align="center"> Eficacia clínica y aceptabilidad de la automonitorización remota de la frecuencia cardíaca fetal en el sur de China </p>
+### <p align="center"> Eficacia clínica y aceptabilidad de la automonitorización remota de la frecuencia cardíaca fetal en el sur de China [^3] </p>
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/ab043895f08597272ea8ec4be273e7d2b14c2c58/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/paper%20china%20fetal%20monitoring.jpg width="90%"> </p> 
 
 **Resumen**: En el articulo, se explica que la tecnología de automonitoreo remoto de la FCF tiene un bajo costo y presenta una eficacia clínica potencial para el ámbito ambulatorio en el sur de China.Se ha visto que este enfoque no aumenta el riesgo de cesárea ni de resultados neonatales adversos.
 
 ### Articulo 2. 
-### <p align="center"> Diseño e implementación de un fetoscopio digital basado en Android </p>
+### <p align="center"> Diseño e implementación de un fetoscopio digital basado en Android [^4] </p>
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/381ffce5cad4d6f203a05312a2fc053fe8bb2b1f/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/tercer%20paper.jpg width="90%"> </p> 
 
