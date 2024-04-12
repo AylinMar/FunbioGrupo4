@@ -51,10 +51,14 @@ Una vez contextualizado el problema se procedió a realizar el mapa de actores e
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/0fbccabc3a1b044239e1ee52e8d758ec14a801f2/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/B7B41F9A-B27C-4979-84C5-EC51DB882AAA.png
 width="100%"> </p>
 
+##### <p align="center"> _Mapa de actores. Fuente: Propia_ </p>
+
 ## 3. Diagrama de Ishikawa
 Luego de haber identificado a los actores principales, se procedió a reunir al equipo y desarrollar el diagrama de ishikawa del problema. Se hizo una lluvia de ideas de las posibles causas relacionadas a la problemática y se las clasificó como se muestra a continuación:
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/6f9a25333202735d8d45e872bf98276c086b9940/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/Diagrama%20de%20ishikawa%20x.jpg width="80%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/6f9a25333202735d8d45e872bf98276c086b9940/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/Diagrama%20de%20ishikawa%20x.jpg width="90%"> </p>
+
+##### <p align="center"> _Diagrama de Ishikawa. Fuente: Propia_ </p>
 
 
 [^1]:CDC. Situación epidemiologica de la mortalidad materna en el Perú. Disponible en: https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2023/SE042023/03.pdf. Revisado el 10 de abril del 2024. 
