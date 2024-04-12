@@ -73,11 +73,18 @@ Con la información recolectada se procedió a plantear la problematica a desarr
 ## 6. Revisión de la bibliografía científica
 
 ### Articulo 1. 
-### <p align="center"> Monitoreo fetal con auscultación intermitente durante el trabajo de parto: una revisión sistemática del alcance para identificar métodos, efectos y precisión </p>
+### <p align="center"> Eficacia clínica y aceptabilidad de la automonitorización remota de la frecuencia cardíaca fetal en el sur de China </p>
 
-Resumen: 
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/ab043895f08597272ea8ec4be273e7d2b14c2c58/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/paper%20china%20fetal%20monitoring.jpg width="90%"> </p> 
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/b6a11322723f5ec3ca2cf2447ad20f7af33f096d/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/primer%20paper.png width="90%"> </p> 
+Resumen: En el articulo, se explica que la tecnología de automonitoreo remoto de la FCF tiene un bajo costo y presenta una eficacia clínica potencial para el ámbito ambulatorio en el sur de China.Se ha visto que este enfoque no aumenta el riesgo de cesárea ni de resultados neonatales adversos.
+
+### Articulo 2. 
+### <p align="center"> Diseño e implementación de un fetoscopio digital basado en Android </p>
+
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/381ffce5cad4d6f203a05312a2fc053fe8bb2b1f/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/tercer%20paper.jpg width="90%"> </p> 
+
+Resumen: Se trata de un estetoscopio Pinnard convencional, asociado a interfases de hardware y una aplicacion Android personalizada para adquirir, analizar y visualizar los latidos cardiacos fetales. El estudio plantea que esta innovación tiene el potencial de reducir la mortalidad materna y fetal debido a su accesibilidad y facilidad de uso. Asimismo, presenta una propuesta interesante para mejorar la atencion prenatal en entornos con recursos limitados. 
 
 [^1]:CDC. Situación epidemiologica de la mortalidad materna en el Perú. Disponible en: https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2023/SE042023/03.pdf. Revisado el 10 de abril del 2024. 
 [^2]:CDC. Boletín Epidemiológico del Perú SE 26-2022. Disponible en: https://www.dge.gob.pe/epipublic/uploads/boletin/boletin_202226_26_125857.pdf. Revisado el 10 de abril del 2024.
