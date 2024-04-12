@@ -60,6 +60,12 @@ Luego de haber identificado a los actores principales, se procedió a reunir al 
 
 ##### <p align="center"> _Diagrama de Ishikawa. Fuente: Propia_ </p>
 
+## 4. Generación del Insight (Técnica de los 5 porqués)
+Asimismo, se procedió a indagar esbozar un
+
+
+https://github.com/AylinMar/FunbioGrupo4/blob/d56b300e08c5da622b86420aead28bf9c85f8823/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/Generaci%C3%B3n%20del%20insight.jpg
+
 
 [^1]:CDC. Situación epidemiologica de la mortalidad materna en el Perú. Disponible en: https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2023/SE042023/03.pdf. Revisado el 10 de abril del 2024. 
 [^2]:CDC. Boletín Epidemiológico del Perú SE 26-2022. Disponible en: https://www.dge.gob.pe/epipublic/uploads/boletin/boletin_202226_26_125857.pdf. Revisado el 10 de abril del 2024.
