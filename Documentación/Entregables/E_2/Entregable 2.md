@@ -1,7 +1,7 @@
 # <p align="center"> Entregable 2 </p>
 ## Estado del Arte Comercial:
 
-### Doppler fetal AngelSounds:
+### 1. Doppler fetal AngelSounds:
 Es conocido por su precisión y facilidad de uso, este monitor fetal Doppler permite a los padres escuchar los latidos cardíacos de su bebé en cualquier momento, ya sea en casa o mientras están de viaje. Cuenta con un diseño compacto y una pantalla LCD para mostrar la frecuencia cardíaca, su sensibilidad detecta los latidos cardíacos fetales a partir de las 10 semanas de gestación. Su precio oscila entre los $40 y $80 dolares.
 ><p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/main/Documentaci%C3%B3n/Imagenes/image1.jpg width="40%"> </p>
 El dispositivo funciona con pilas y un cableado simple que se puede colocar en los oídos. Además, cuenta con controles para ajustar el volumen de los latidos cardíacos según las preferencias del usuario. Su diseño ligero, con un peso de tan solo 290 gramos, la frecuencia de operación de un Doppler fetal AngelSounds es de alrededor de 2 MHz, tiene un modo de operación continuo o pulsado, tiene sensibilidad para detectar los latidos cardíacos fetales a partir de las 10 semanas de gestación.
