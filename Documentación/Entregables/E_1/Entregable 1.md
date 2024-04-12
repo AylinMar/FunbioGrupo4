@@ -88,7 +88,7 @@ Con la información recolectada se procedió a plantear la problematica a desarr
 **Resumen**: Se trata de un estetoscopio Pinnard convencional, asociado a interfases de hardware y una aplicacion Android personalizada para adquirir, analizar y visualizar los latidos cardiacos fetales. El estudio plantea que esta innovación tiene el potencial de reducir la mortalidad materna y fetal debido a su accesibilidad y facilidad de uso. Asimismo, presenta una propuesta interesante para mejorar la atencion prenatal en entornos con recursos limitados. 
 
 ### Articulo 3. 
-### <p align="center"> Efectividad de la monitorización fetal remota en los resultados materno-fetales: revisión sistemática y metanálisis </p>
+### <p align="center"> Efectividad de la monitorización fetal remota en los resultados materno-fetales: revisión sistemática y metanálisis [^5] </p>
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/ac05cc5bb53d940ab2816816ba203d74057ee367/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/metaanalisis%20de%20monitoreo%20materno%20fetal.jpg width="90%"> </p> 
 
@@ -99,3 +99,4 @@ Con la información recolectada se procedió a plantear la problematica a desarr
 [^2]:CDC. Boletín Epidemiológico del Perú SE 26-2022. Disponible en: https://www.dge.gob.pe/epipublic/uploads/boletin/boletin_202226_26_125857.pdf. Revisado el 10 de abril del 2024.
 [^3]:Yujie Gan.Eficacia clínica y aceptabilidad de la automonitorización remota de la frecuencia cardíaca fetal en el sur de China.BMC Embarazo Parto.7 de octubre de 2023; 23 (1): 715. doi: 10.1186/s12884-023-05985-9.Disponible en: https://pubmed.ncbi.nlm.nih.gov/37805457/
 [^4]:CDC.A. M. Awiti, B. M. Shifferaw, M. B. Byamukama, R. Kizito and C. Mwikirize, "Design and implementation of an Android based digital fetoscope," 2016 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), Las Vegas, NV, USA, 2016, pp. 152-155, doi: 10.1109/BHI.2016.7455857.
+[^5]:Li S, Yang Q, Niu S, Liu Y. Effectiveness of Remote Fetal Monitoring on Maternal-Fetal Outcomes: Systematic Review and Meta-Analysis. JMIR Mhealth Uhealth. 2023 Feb 22;11:e41508. doi: 10.2196/41508. PMID: 36811944; PMCID: PMC9996419.
