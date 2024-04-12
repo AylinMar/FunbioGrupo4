@@ -8,11 +8,9 @@
 * **Definir**
 > 3. Diagrama de Ishikawa
 > 
-> 4. Journey Map
-> 
-> 5. Generación del Insight (5 porqués)
+> 4. Generación del Insight (5 porqués)
 >
-> 6. Definición del problema
+> 5. Definición del problema
 >
  
 ## 1. Contexto
@@ -63,7 +61,12 @@ Luego de haber identificado a los actores principales, se procedió a reunir al 
 ## 4. Generación del Insight (Técnica de los 5 porqués)
 Asimismo, se procedió a identificar el insight principal de a problemática a través de la estrategia de los 5 porqués. A continuación se muestra el desarrollo de la herramienta y el insight encontrado.  
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/d56b300e08c5da622b86420aead28bf9c85f8823/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/Generaci%C3%B3n%20del%20insight.jpg width="90%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/aded3d02d7940c23a7c01c55165dfbb1d90e9159/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/Generaci%C3%B3n%20del%20insight%20x.jpg width="90%"> </p>
+
+## 4. Definición del problema
+Con la información recolectada se procedió a plantear la problematica a desarrollar por el equipo:
+
+## <p align="center"> ¿Cómo podriamos mejorar el monitoreo materno fetal domiciliario de las gestantes de zonas rurales del país para reducir el tiempo de búsqueda de atención en establecimientos de salud?  </p>
 
 
 [^1]:CDC. Situación epidemiologica de la mortalidad materna en el Perú. Disponible en: https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2023/SE042023/03.pdf. Revisado el 10 de abril del 2024. 
