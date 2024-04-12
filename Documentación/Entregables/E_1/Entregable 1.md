@@ -86,5 +86,12 @@ Con la información recolectada se procedió a plantear la problematica a desarr
 
 **Resumen**: Se trata de un estetoscopio Pinnard convencional, asociado a interfases de hardware y una aplicacion Android personalizada para adquirir, analizar y visualizar los latidos cardiacos fetales. El estudio plantea que esta innovación tiene el potencial de reducir la mortalidad materna y fetal debido a su accesibilidad y facilidad de uso. Asimismo, presenta una propuesta interesante para mejorar la atencion prenatal en entornos con recursos limitados. 
 
+### Articulo 3. 
+### <p align="center"> Efectividad de la monitorización fetal remota en los resultados materno-fetales: revisión sistemática y metanálisis </p>
+
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/ac05cc5bb53d940ab2816816ba203d74057ee367/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/metaanalisis%20de%20monitoreo%20materno%20fetal.jpg width="90%"> </p> 
+
+**Resumen**: El articulo sostiene que la monitorización fetal remota puede reducir la incidencia de asfixia neonatal y los costos de atención sanitaria en comparación con la monitorización fetal de rutina. 
+
 [^1]:CDC. Situación epidemiologica de la mortalidad materna en el Perú. Disponible en: https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2023/SE042023/03.pdf. Revisado el 10 de abril del 2024. 
 [^2]:CDC. Boletín Epidemiológico del Perú SE 26-2022. Disponible en: https://www.dge.gob.pe/epipublic/uploads/boletin/boletin_202226_26_125857.pdf. Revisado el 10 de abril del 2024.
