@@ -43,7 +43,7 @@ No obstante, la distribución de la mortalidad esta marcada por la desigualdad. 
 ##### <p align="center"> _Estimación de mortalidad neonatal por departamentos. Extraido de [1]_ </p>
 .
 
-Es decir, el binomio madre feto tiene más riesgo de morir si proviene de zonas pertenecientes al quintil de mayor pobreza. Es debido a este contexto que es necesario plantear soluciones en salud que permitan mejorar la salud estas poblaciones vulnerables.  
+Es decir, el binomio madre feto tiene más riesgo de morir si proviene de zonas pertenecientes al quintil de mayor pobreza. Es debido a este contexto que es necesario plantear soluciones permitan mejorar la salud estas poblaciones vulnerables.  
 
 ## 2. Mapa de actores
 
