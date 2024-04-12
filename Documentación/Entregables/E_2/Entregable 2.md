@@ -1,4 +1,15 @@
 # <p align="center"> Entregable 2 </p>
+## Tabla de contenido
+
+> 1. Estado del arte comercial
+> 
+> 2. Patentes
+> 
+> 3. Requerimientos
+> 
+> 4. Idea de prototipo
+> 
+
 ## 1. Estado del Arte Comercial:
 
 ### 1. Doppler fetal AngelSounds:
