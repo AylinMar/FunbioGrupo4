@@ -68,7 +68,11 @@ Asimismo, se procedió a identificar el insight principal de a problemática a t
 ## 5. Definición del problema
 Con la información recolectada se procedió a plantear la problematica a desarrollar por el equipo:
 
-## <p align="center"> ¿Cómo podriamos mejorar el monitoreo materno fetal domiciliario de las gestantes de zonas rurales del país para reducir el tiempo de búsqueda de atención en establecimientos de salud?  </p>
+### <p align="center"> ¿Cómo podriamos mejorar el monitoreo materno fetal domiciliario de las gestantes de zonas rurales del país para reducir el tiempo de búsqueda de atención en establecimientos de salud?  </p>
+
+## 6. Revisión de la bibliografía científica
+
+Articulo 1. 
 
 
 [^1]:CDC. Situación epidemiologica de la mortalidad materna en el Perú. Disponible en: https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2023/SE042023/03.pdf. Revisado el 10 de abril del 2024. 
