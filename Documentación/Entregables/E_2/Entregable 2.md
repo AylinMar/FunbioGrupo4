@@ -1,5 +1,5 @@
 # <p align="center"> Entregable 2 </p>
-## Estado del Arte Comercial:
+## 1. Estado del Arte Comercial:
 
 ### 1. Doppler fetal AngelSounds:
 Es conocido por su precisión y facilidad de uso, este monitor fetal Doppler permite a los padres escuchar los latidos cardíacos de su bebé en cualquier momento, ya sea en casa o mientras están de viaje. Cuenta con un diseño compacto y una pantalla LCD para mostrar la frecuencia cardíaca, su sensibilidad detecta los latidos cardíacos fetales a partir de las 10 semanas de gestación. Su precio oscila entre los $40 y $80 dolares.
@@ -15,3 +15,16 @@ Es tan compacto que cabe en la palma de tu mano y pesa apenas unos pocos gramos,
 Son auriculares especialmente diseñados para colocarse en el vientre de la madre y permitirle escuchar los sonidos, incluidos los latidos del feto y compartir música y voces con el bebé en desarrollo en el vientre. Son seguros de usar y están fabricados con materiales suaves y no tóxicos para garantizar la comodidad para la madre y para el bebé. El cable de los Bellybuds BellyPhones puede tener una longitud típica que varía entre 100 y 120 centímetros, su precio se encuenetra en el rango de $30 y $40 dolares.
 ><p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/main/Documentaci%C3%B3n/Imagenes/image3.jpg width="40%"> </p>
 Estos auriculares suelen tener un diseño ergonómico que los hace cómodos de llevar tanto para la madre como para el feto y es fácil de ocultar debajo de la ropa de las madres mientras realizan sus actividades diarias, compatible con una variedad de aplicaciones de audio para teléfonos celulares y tiene la capacidad de conectarse con dispositivos de reproducción de música, tales como reproductores de MP3 y tabletas con conector de audio estándar de 3.5 mm.
+
+
+## 2. Patentes:
+
+
+
+
+## 3. Requerimientos:
+
+
+
+
+## 4. Idea de prototipo:
