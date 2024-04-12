@@ -46,7 +46,10 @@ No obstante, la distribución de la mortalidad esta marcada por la desigualdad. 
 Es decir, el binomio madre feto tiene más riesgo de morir si proviene de zonas pertenecientes al quintil de mayor pobreza. Es debido a este contexto que es necesario plantear soluciones permitan mejorar la salud estas poblaciones vulnerables.  
 
 ## 2. Mapa de actores
-src=https://github.com/AylinMar/FunbioGrupo4/blob/0fbccabc3a1b044239e1ee52e8d758ec14a801f2/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/B7B41F9A-B27C-4979-84C5-EC51DB882AAA.png
+
+.
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/0fbccabc3a1b044239e1ee52e8d758ec14a801f2/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/B7B41F9A-B27C-4979-84C5-EC51DB882AAA.png
+width="70%"> </p>
 
 [^1]:CDC. Situación epidemiologica de la mortalidad materna en el Perú. Disponible en: https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2023/SE042023/03.pdf. Revisado el 10 de abril del 2024. 
 [^2]:CDC. Boletín Epidemiológico del Perú SE 26-2022. Disponible en: https://www.dge.gob.pe/epipublic/uploads/boletin/boletin_202226_26_125857.pdf. Revisado el 10 de abril del 2024.
