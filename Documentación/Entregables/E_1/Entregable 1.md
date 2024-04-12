@@ -49,7 +49,7 @@ Es decir, el binomio madre feto tiene más riesgo de morir si proviene de zonas 
 Una vez contextualizado el problema se procedió a realizar el mapa de actores el cual se presenta a continuación: 
 .
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/0fbccabc3a1b044239e1ee52e8d758ec14a801f2/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/B7B41F9A-B27C-4979-84C5-EC51DB882AAA.png
-width="70%"> </p>
+width="100%"> </p>
 
 ## 3. Diagrama de Ishikawa
 Luego de haber identificado a los actores principales, se procedió a reunir al equipo y desarrollar el diagrama de ishikawa del problema. Se hizo una lluvia de ideas de las posibles causas relacionadas a la problemática y se las clasificó como se muestra a continuación:
