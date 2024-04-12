@@ -12,8 +12,8 @@
 >
 > 5. Definición del problema
 >
-* **Estado del Arte de soluciones a la problemática**
-> 6. Revisión de la bibliografía científica.
+* **Estado del Arte - Evidencia Cientifica**
+> 6. Revisión de la bibliografía científica asociada a la problematica propuesta
 >
 > 7. Bibliografía.   
 ## 1. Contexto
@@ -71,7 +71,7 @@ Con la información recolectada se procedió a plantear la problematica a desarr
 >.
 ### <p align="center"> ¿Cómo podriamos mejorar el monitoreo materno fetal domiciliario de las gestantes de zonas rurales del país para reducir el tiempo de búsqueda de atención en establecimientos de salud?  </p>
 >.
-## 6. Revisión de la bibliografía científica
+## 6. Revisión de la bibliografía científica asociada a la problematica propuesta
 
 ### Articulo 1. 
 ### <p align="center"> Eficacia clínica y aceptabilidad de la automonitorización remota de la frecuencia cardíaca fetal en el sur de China [^3] </p>
