@@ -63,7 +63,7 @@ Asimismo, se procedió a identificar el insight principal de a problemática a t
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/aded3d02d7940c23a7c01c55165dfbb1d90e9159/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/Generaci%C3%B3n%20del%20insight%20x.jpg width="90%"> </p>
 
-## 4. Definición del problema
+## 5. Definición del problema
 Con la información recolectada se procedió a plantear la problematica a desarrollar por el equipo:
 
 ## <p align="center"> ¿Cómo podriamos mejorar el monitoreo materno fetal domiciliario de las gestantes de zonas rurales del país para reducir el tiempo de búsqueda de atención en establecimientos de salud?  </p>
