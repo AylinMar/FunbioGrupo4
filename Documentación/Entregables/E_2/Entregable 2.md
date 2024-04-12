@@ -29,13 +29,15 @@ Estos auriculares suelen tener un diseño ergonómico que los hace cómodos de l
 
 
 ## 2. Patentes
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/d23da0cf2848b7c9a3ce266ed1c5fcbf43f72229/Documentaci%C3%B3n/Entregables/E_2/Imagenes/uno.pdf
+width="100%"> </p>
 
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/d23da0cf2848b7c9a3ce266ed1c5fcbf43f72229/Documentaci%C3%B3n/Entregables/E_2/Imagenes/dos.pdf
+width="100%"> </p>
 
-
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/d23da0cf2848b7c9a3ce266ed1c5fcbf43f72229/Documentaci%C3%B3n/Entregables/E_2/Imagenes/tres.pdf
+width="100%"> </p>
 
 ## 3. Requerimientos
-
-
-
 
 ## 4. Idea de prototipo
