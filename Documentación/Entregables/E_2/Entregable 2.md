@@ -47,4 +47,4 @@ src=https://github.com/AylinMar/FunbioGrupo4/blob/fa01e42ed5504194d01930fb4c085a
 width="100%"> </p>
                      
 ## 3. Idea de prototipo
-Nosotros proponemos diseñar un dispositivo inteligente de monitoreo del embarazo dirigido a zonas rurales con limitado acceso a servicios de salud con el fin de reducir el tiempo de búsqueda de atención hospitalaria en caso de emergencia.
+Nosotros proponemos diseñar un dispositivo inteligente de monitoreo del latido cardiaco fetal dirigido a zonas con limitado acceso a servicios de salud con el fin de que la gestante acuda oportunamente a establecimientos de salud.  
