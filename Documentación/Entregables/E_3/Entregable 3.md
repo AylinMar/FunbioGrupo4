@@ -12,3 +12,8 @@
 > 5. Tabla de Valoracion
 >
 > 6. Conclusion del CS Elegido
+
+## 1. Caja negra
+
+Para la elaboración de la propuesta, se elaboró la caja negra. El esquema se muestra a continuación:
+
