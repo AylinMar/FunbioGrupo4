@@ -58,5 +58,5 @@ Se escogió el concepto de **solución numero 1** al tener el mayor puntaje en l
 
 ## 5. Conclusion del concepto de solución elegido
 
-Finalmente, se concluyó que el concepto de solución número 1 fue el idóneo para la realización el proyecto. Su relativo bajo costo; el tamaño compacto de sus componentes; la amplia accesibilidad de respuestos en el mercado; y la versatilidad del tiny maching learning fueron las principales razones de esta elección. Asimismo, se proyecta que los componentes escogidos funcionen adecuadamente y de forma sostenida en entornos rurales donde la mano profesional es escasa. 
+Finalmente, se concluyó que el concepto de solución número 1 fue el idóneo para la realización el proyecto. Su relativo bajo costo; el tamaño compacto de sus componentes; la amplia accesibilidad de respuestos en el mercado; y la versatilidad del tiny maching learning fueron las principales razones de esta elección. Asimismo, se proyecta que el concepto escogido funcione adecuadamente y de forma sostenida en entornos rurales donde la mano profesional es escasa.
 
