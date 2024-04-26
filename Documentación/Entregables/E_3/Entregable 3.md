@@ -56,3 +56,14 @@ Se escogió el concepto de **solución numero 1** al tener el mayor puntaje en l
 
 Finalmente, se concluyó que el concepto de solución número 1 fue el idóneo para la realización el proyecto. Su relativo bajo costo; el tamaño compacto de sus componentes; la amplia accesibilidad de respuestos en el mercado; y la versatilidad del tiny maching learning fueron las principales razones de esta elección. Asimismo, se proyecta que el concepto escogido funcione adecuadamente y de forma sostenida en entornos rurales donde la mano profesional es escasa.
 
+## 6. Bocetos preliminares
+
+A continuación se presentan los bocetos preliminares de 3 posibles proyectos:
+
+### 6.1 Modelo 1
+
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/43634213f118dcd7ad59c5b687b9644cd3141c6f/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/Primer%20boceto_page-0001.jpg width="100%"> </p>
+
+### 6.2 Modelo 2
+
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/43634213f118dcd7ad59c5b687b9644cd3141c6f/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/boceto%202.jpeg width="100%"> </p>
