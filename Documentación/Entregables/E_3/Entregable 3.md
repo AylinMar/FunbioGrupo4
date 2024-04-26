@@ -40,6 +40,10 @@ De la misma forma, se definió cada función como se muestra a continuación:
 Una vez concluido el esquema de funciones, se procedió a escoger los posibles componentes para el dispositivo de acuerdo a nuestros requerimientos.
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/6c5bf72a7e136b2b515f30467e1fa7a230616f38/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/MATRIZ%20MORFOL%C3%93GICA.jpeg width="100%"> </p>
 
+CS1: Concepto de solución 1
+CS2: Concepto de solución 2
+CS3: Concepto de solución 3
+
 ## 5. Tabla de valoración
 
 Posteriormente, las 3 conceptos de solución fueron evaluados siguiendo criterios técnicos y ergonómicos como se muestra a continuación:
