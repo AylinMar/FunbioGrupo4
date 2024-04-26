@@ -1,7 +1,7 @@
 # <p align="center"> Entregable 3 </p>
 ## Tabla de contenido
 
-> 1. Estado del arte
+> 1. Caja negra
 >    
 > 2. Lista de entradas y salidas
 > 
