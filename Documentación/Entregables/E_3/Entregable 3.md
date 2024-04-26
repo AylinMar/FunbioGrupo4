@@ -46,3 +46,9 @@ Posteriormente, las 3 conceptos de solución fueron evaluados siguiendo criterio
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/f8f24abdc963e5229ba6c41ab41254202f22cabb/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/tabla%20de%20valoracion.png width="100%"> </p>
 
+Se escogió el concepto de **solución numero 1** al tener el mayor puntaje en las categorias seleccionadas para el dispositivo.
+
+## 5. Conclusion del concepto de solución elegido
+
+Finalmente, se concluyó que el concepto de solución número 1 fue el idóneo para la realización el proyecto. Su relativo bajo costo; el tamaño compacto de sus componentes; la amplia accesibilidad de sus componentes; y la versatilidad del tiny maching learning de arduino... 
+
