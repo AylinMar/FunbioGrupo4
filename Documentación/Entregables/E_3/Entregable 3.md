@@ -3,11 +3,12 @@
 
 > 1. Estado del arte
 >    
->    1.1. Productos comerciales
->    
->    1.2. Patentes
->    
-> 2. Requerimientos
+> 2. Lista de entradas y salidas
 > 
-> 3. Idea de prototipo
-> 
+> 3. Esquema de funciones
+>
+> 4. Matriz Morfologica
+>
+> 5. Tabla de Valoracion
+>
+> 6. Conclusion del CS Elegido
