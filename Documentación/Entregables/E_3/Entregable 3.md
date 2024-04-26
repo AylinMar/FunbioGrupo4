@@ -34,3 +34,14 @@ Luego de definidas las entradas y salidas se procedió a desarrollar el esquema 
 De la misma forma, se definió cada función como se muestra a continuación:
 
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/a2852aa929f105788a73866c56850dbfc08e9e60/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/esquema%20de%20funciones%20parte%202.png width="100%"> </p>
+
+## 4. Matriz Morfologica
+
+Una vez concluido el esquema de funciones, se procedió a escoger los posibles componentes para el dispositivo de acuerdo a nuestros requerimientos.
+
+## 5. Tabla de valoración
+
+Posteriormente, las 3 conceptos de solución fueron evaluados siguiendo criterios técnicos y ergonómicos como se muestra a continuación:
+
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/f8f24abdc963e5229ba6c41ab41254202f22cabb/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/tabla%20de%20valoracion.png width="100%"> </p>
+
