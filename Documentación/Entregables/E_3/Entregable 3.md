@@ -38,7 +38,7 @@ De la misma forma, se definió cada función como se muestra a continuación:
 ## 4. Matriz Morfologica
 
 Una vez concluido el esquema de funciones, se procedió a escoger los posibles componentes para el dispositivo de acuerdo a nuestros requerimientos.
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/a2852aa929f105788a73866c56850dbfc08e9e60/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/esquema%20de%20funciones%20parte%202.png width="100%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/6c5bf72a7e136b2b515f30467e1fa7a230616f38/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/MATRIZ%20MORFOL%C3%93GICA.jpeg width="100%"> </p>
 
 ## 5. Tabla de valoración
 
