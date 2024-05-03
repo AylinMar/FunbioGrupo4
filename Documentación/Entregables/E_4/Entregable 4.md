@@ -15,7 +15,7 @@ Una vez escogido el concepto de solución se procedió a plantear 3 proyectos pr
 
 ### Proyecto preliminar 1
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/28a7e9496220c2691e788046af966aee2f22ab0b/Documentaci%C3%B3n/Entregables/E_4/Imagenes/P%20preliminar%202.png width="100%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/c66d41f4d4efdf90449caf1e668c9592a42233e6/Documentaci%C3%B3n/Entregables/E_4/Imagenes/P%20preliminar%201.png width="100%"> </p>
 
 ### Proyecto preliminar 2
 
