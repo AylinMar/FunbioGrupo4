@@ -15,7 +15,7 @@ Una vez escogido el concepto de solución se procedió a plantear 3 proyectos pr
 
 ### Proyecto preliminar 1
 
-<p align="center"> <img src= https://github.com/AylinMar/FunbioGrupo4/blob/a8c381b04ca0781380740f37996325249c5ff207/Documentaci%C3%B3n/Entregables/E_4/Imagenes/P%20preliminar%203a.png width="100%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/976041b1a29f5ed54dd95d060091f6da77e6aaf7/Documentaci%C3%B3n/Entregables/E_4/Imagenes/P%20preliminar%201.png width="100%"> </p>
 
 ## 2. Tabla de valoración técnica
 
