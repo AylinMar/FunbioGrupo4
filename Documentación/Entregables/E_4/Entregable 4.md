@@ -11,3 +11,5 @@
 
 ## 1. Bocetos
 
+Una vez escogido el concepto de solución se procedió a plantear 3 proyectos preliminares los cuales fueron bocetados como se muestra a continuación:
+
