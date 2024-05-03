@@ -34,3 +34,5 @@ Una vez escogido el concepto de solución se procedió a plantear 3 proyectos pr
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/79a8b55047c9f6bd7f417698bae2a0aa600d9cd2/Documentaci%C3%B3n/Entregables/E_4/Imagenes/tabla%20criterios%20economicos.png width="100%"> </p>
 
 ## 4. Proyecto óptimo
+
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/d6c38a6cbcc9234e718843c29510639a94a48f2f/Documentaci%C3%B3n/Entregables/E_4/Imagenes/proyecto%20optimo.png width="100%"> </p>
