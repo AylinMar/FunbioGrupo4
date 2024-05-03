@@ -1,16 +1,13 @@
 # <p align="center"> Entregable 4 </p>
 ## Tabla de contenido
 
-> 1. Caja negra
+> 1. Bocetos
 >    
-> 2. Lista de entradas y salidas
+> 2. Tabla de valoración técnica
 > 
-> 3. Esquema de funciones
+> 3. Tabla de valoración ergonómica
 >
-> 4. Matriz Morfologica
->
-> 5. Tabla de Valoracion
->
-> 6. Conclusion del CS Elegido
+> 4. Proyecto óptimo
 
-## 1. Caja negra
+## 1. Bocetos
+
