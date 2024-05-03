@@ -5,7 +5,7 @@
 >    
 > 2. Tabla de valoración técnica
 > 
-> 3. Tabla de valoración ergonómica
+> 3. Tabla de valoración económica
 >
 > 4. Proyecto óptimo
 
