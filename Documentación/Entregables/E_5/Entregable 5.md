@@ -1,6 +1,6 @@
 # <p align="center"> Entregable 5 </p>
 ## Tabla de contenido
->Esquema electrónico del concepto de solución
+>-Esquema electrónico del concepto de solución
 
 Una vez obtenido el concepto de solución ganador, se procedió a desarrollar el esquema electrónico de sus componentes.
 
