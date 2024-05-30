@@ -29,7 +29,7 @@ Asimismo, se definieron las entradas y salidas de acuerdo al siguiente gráfico:
 
 Luego de definidas las entradas y salidas se procedió a desarrollar el esquema de funciones del dispositivo.
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/a2852aa929f105788a73866c56850dbfc08e9e60/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/esquema%20de%20funciones.png width="100%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/c30a12c78e8ad180e7bede0c205f5aa0b8b0e6e0/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/esquema%20de%20funciones%20corregido.png width="100%"> </p>
 
 De la misma forma, se definió cada función como se muestra a continuación:
 
