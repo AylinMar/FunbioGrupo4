@@ -38,7 +38,7 @@ De la misma forma, se definió cada función como se muestra a continuación:
 ## 4. Matriz Morfologica
 
 Una vez concluido el esquema de funciones, se procedió a escoger los posibles componentes para el dispositivo de acuerdo a nuestros requerimientos.
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/6c5bf72a7e136b2b515f30467e1fa7a230616f38/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/MATRIZ%20MORFOL%C3%93GICA.jpeg width="100%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/a87eae4a5f309c4a2a205a70e35b835010992b0a/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/Matriz%20morfol%C3%B3gica%20corregida.jpg width="100%"> </p>
 
 CS1: Concepto de solución 1
 CS2: Concepto de solución 2
