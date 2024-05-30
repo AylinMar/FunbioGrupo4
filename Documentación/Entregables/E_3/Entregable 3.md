@@ -48,7 +48,7 @@ CS3: Concepto de solución 3
 
 Posteriormente, las 3 conceptos de solución fueron evaluados siguiendo criterios técnicos y ergonómicos como se muestra a continuación:
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/f8f24abdc963e5229ba6c41ab41254202f22cabb/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/tabla%20de%20valoracion.png width="100%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/6057476aeb22a842d920fce9ef6bf51842d0ab88/Documentaci%C3%B3n/Entregables/E_3/Imagenes_E3/Conceptos%20de%20solu%20corregido.jpg width="100%"> </p>
 
 Se escogió el concepto de **solución numero 1** al tener el mayor puntaje en las categorias seleccionadas para el dispositivo.
 
