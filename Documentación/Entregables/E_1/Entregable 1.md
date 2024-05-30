@@ -57,7 +57,7 @@ width="100%"> </p>
 ## 3. Diagrama de Ishikawa
 Luego de haber identificado a los actores principales, se procedió a reunir al equipo y desarrollar el diagrama de ishikawa del problema. Se hizo una lluvia de ideas de las posibles causas relacionadas a la problemática y se las clasificó como se muestra a continuación:
 
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/6f9a25333202735d8d45e872bf98276c086b9940/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/Diagrama%20de%20ishikawa%20x.jpg width="90%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/95704b26282e84f545241d891d6d25a36dcf91cf/Documentaci%C3%B3n/Entregables/E_1/Imagenes_E1/Diagrama%20de%20ishikawa.jpg width="90%"> </p>
 
 ##### <p align="center"> _Diagrama de Ishikawa. Fuente: Propia_ </p>
 
