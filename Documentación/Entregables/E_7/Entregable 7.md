@@ -2,6 +2,6 @@
 ## Tabla de contenido
 
 > 1. Hardware
->    Diseño esquemático del circuito electrónico
+>> Diseño esquemático del circuito electrónico
 > 2. Software
->     Script de programación para el microcontrolador
+>> Script de programación para el microcontrolador
