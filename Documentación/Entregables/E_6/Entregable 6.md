@@ -19,8 +19,8 @@ src=https://github.com/AylinMar/FunbioGrupo4/blob/0cd720683e593317c8517ad84765cf
 
 
 ## Software
-<p align="center"> <img src=<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/08a509cf54c645d955dcc0f49ef6912f1c0a7044/Documentaci%C3%B3n/Entregables/E_6/Imagenes/edge%20impulse.jpeg width="100%"> </p>
-<p align="center"> Entrenamiento de la Inteligencia Artificial en Edge Impulse width="100%"> </p>
+<p align="center"> <img src=<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/5b7781b8253df93956d6ab4d396c4a901d660c4b/Documentaci%C3%B3n/Entregables/E_6/Imagenes/Codigo.png width="100%"> </p>
+
 <p align="center"> Codigo del circuito
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/08a509cf54c645d955dcc0f49ef6912f1c0a7044/Documentaci%C3%B3n/Entregables/E_6/Imagenes/edge%20impulse.jpeg width="100%"> </p>
 <p align="center"> Entrenamiento de la Inteligencia Artificial en Edge Impulse
