@@ -25,7 +25,8 @@ src=https://github.com/AylinMar/FunbioGrupo4/blob/5c2577dec68f4b7ae25ce1419b3060
 src=https://github.com/AylinMar/FunbioGrupo4/blob/c40778063e189efac0574004556623adcb4f148e/Documentaci%C3%B3n/Entregables/E_6/Imagenes/funcionamiento%20del%20circuito.png width="100%"> </p>
 <p align="center"> Funcionamiento del circuito
 
-  https://github.com/AylinMar/FunbioGrupo4/assets/164528893/c9cfd930-85b8-4d99-bc31-ab1c1c7be420
+https://github.com/AylinMar/FunbioGrupo4/assets/164528893/e8c28a1b-88bc-4d3e-89aa-8a35b7111818
+
 
 ## Software
 <p align="center"> <img src=<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/5b7781b8253df93956d6ab4d396c4a901d660c4b/Documentaci%C3%B3n/Entregables/E_6/Imagenes/Codigo.png width="100%"> </p>
