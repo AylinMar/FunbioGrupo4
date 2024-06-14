@@ -18,3 +18,5 @@
 <p align="center"> Entrenamiento de la Inteligencia Artificial en Edge Impulse
 
 ## Integración de Hardware 
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/main/Documentaci%C3%B3n/Entregables/E_6/Imagenes/Diagrama%20de%20Flujo.png width="100%"> </p>
+<p align="center">  Diagrama de Flujo
