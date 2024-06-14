@@ -22,7 +22,7 @@ src=https://github.com/AylinMar/FunbioGrupo4/blob/5c2577dec68f4b7ae25ce1419b3060
 <p align="center"> Circuito Armado
   
 <p align="center"> <img 
-src=https://github.com/AylinMar/FunbioGrupo4/blob/0cd720683e593317c8517ad84765cf17bc957187/Documentaci%C3%B3n/Entregables/E_6/Imagenes/Tinkercad.png width="100%"> </p>
+src=https://github.com/AylinMar/FunbioGrupo4/blob/c40778063e189efac0574004556623adcb4f148e/Documentaci%C3%B3n/Entregables/E_6/Imagenes/funcionamiento%20del%20circuito.png width="100%"> </p>
 <p align="center"> Funcionamiento del circuito
 
   https://github.com/AylinMar/FunbioGrupo4/assets/164528893/c9cfd930-85b8-4d99-bc31-ab1c1c7be420
