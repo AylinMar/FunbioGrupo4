@@ -3,8 +3,11 @@
 
 > 1. Hardware
 >> Modelado 3D
+
 >> Diseño esquemático del circuito electrónico
+
 >> Circuito armado
+
 >> Funcionamiento del circuito
 > 2. Software
 >> Script de programación para el microcontrolador
