@@ -3,6 +3,8 @@
 
 > 1. Hardware
 >> Diseño esquemático del circuito electrónico
+>> Circuito armado
+>> Funcionamiento del circuito
 > 2. Software
 >> Script de programación para el microcontrolador
 > 3. Integración de Hardware
