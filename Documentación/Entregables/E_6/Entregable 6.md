@@ -14,6 +14,14 @@
 
 -----------------------------------------------------------------------------------------------------------------
 <p align="center"> <img 
+src=https://github.com/AylinMar/FunbioGrupo4/blob/5c2577dec68f4b7ae25ce1419b3060caf1cb1116/Documentaci%C3%B3n/Entregables/E_6/Imagenes/FotoCircuito2.jpeg width="100%"> </p>
+<p align="center"> Circuito Armado
+
+<p align="center"> <img 
+src=https://github.com/AylinMar/FunbioGrupo4/blob/5c2577dec68f4b7ae25ce1419b3060caf1cb1116/Documentaci%C3%B3n/Entregables/E_6/Imagenes/FotoCircuito1.jpeg width="100%"> </p>
+<p align="center"> Circuito Armado
+  
+<p align="center"> <img 
 src=https://github.com/AylinMar/FunbioGrupo4/blob/0cd720683e593317c8517ad84765cf17bc957187/Documentaci%C3%B3n/Entregables/E_6/Imagenes/Tinkercad.png width="100%"> </p>
 <p align="center"> Funcionamiento del circuito
 
