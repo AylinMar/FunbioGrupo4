@@ -1,4 +1,4 @@
-# <p align="center"> Entregable 7 </p>
+# <p align="center"> Entregable 6 </p>
 ## Tabla de contenido
 
 > 1. Hardware
