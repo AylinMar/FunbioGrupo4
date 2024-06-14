@@ -60,6 +60,7 @@ src=https://github.com/AylinMar/FunbioGrupo4/blob/c40778063e189efac0574004556623
 <p align="center"> Funcionamiento del circuito
 
 https://github.com/AylinMar/FunbioGrupo4/assets/164528893/e8c28a1b-88bc-4d3e-89aa-8a35b7111818
+
 https://www.tinkercad.com/things/lXsLPYjP4Lp-copy-of-display-lcd-y-botones-16-x-2-12/editel?sharecode=X9q-Ova3fASKB7xMLZ5_UIEueHMgBP6W2aCsMUuSVvo&sharecode=X9q-Ova3fASKB7xMLZ5_UIEueHMgBP6W2aCsMUuSVvo
 
 ## Software
