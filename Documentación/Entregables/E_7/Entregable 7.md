@@ -5,3 +5,5 @@
 >> Diseño esquemático del circuito electrónico
 > 2. Software
 >> Script de programación para el microcontrolador
+
+##Hardware
