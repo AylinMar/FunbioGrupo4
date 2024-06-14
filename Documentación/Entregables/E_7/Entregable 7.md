@@ -6,4 +6,4 @@
 > 2. Software
 >> Script de programación para el microcontrolador
 
-##Hardware
+## Hardware
