@@ -3,11 +3,11 @@
 
 > 1. Verificación de diseño
 
-## Verificación de diseño
+## Verificación de Software
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/5627f67705c5d2a3bab2022842a33017281ee93d/Documentaci%C3%B3n/Entregables/E_7/Imagenes/software2.jpg width="100%"> </p>
 <p align="center"> Tabla 1. Verificación de diseño (software)
 
-## Verificación de diseño
+## Verificación de Hardware
 <p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/5627f67705c5d2a3bab2022842a33017281ee93d/Documentaci%C3%B3n/Entregables/E_7/Imagenes/hardware2.jpg width="100%"> </p>
 <p align="center"> Tabla 2. Verificación de diseño (Hardware)
 
