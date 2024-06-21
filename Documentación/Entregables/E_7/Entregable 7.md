@@ -4,10 +4,10 @@
 > 1. Verificación de diseño
 
 ## Verificación de diseño
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/b4e05d860c33df424cea644e4102e908abb240b1/Documentaci%C3%B3n/Entregables/E_7/Imagenes/verificacion%20de%20prototipo.jpg width="100%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/5627f67705c5d2a3bab2022842a33017281ee93d/Documentaci%C3%B3n/Entregables/E_7/Imagenes/software2.jpg width="100%"> </p>
 <p align="center"> Tabla 1. Verificación de diseño (software)
 
 ## Verificación de diseño
-<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/ce6bd695474af4458d118360a6fc58bf266d0c72/Documentaci%C3%B3n/Entregables/E_7/Imagenes/hardware.jpg width="100%"> </p>
+<p align="center"> <img src=https://github.com/AylinMar/FunbioGrupo4/blob/5627f67705c5d2a3bab2022842a33017281ee93d/Documentaci%C3%B3n/Entregables/E_7/Imagenes/hardware2.jpg width="100%"> </p>
 <p align="center"> Tabla 2. Verificación de diseño (Hardware)
 
