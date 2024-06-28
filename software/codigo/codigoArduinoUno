@@ -1,0 +1,103 @@
+#include "Arduino.h"
+#include "DFRobotDFPlayerMini.h"
+#include <SoftwareSerial.h>
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
+
+// Definición de la comunicación serial utilizando SoftwareSerial
+SoftwareSerial softSerial(4, 5);
+#define FPSerial softSerial
+DFRobotDFPlayerMini myDFPlayer;
+
+//Pantalla LCD
+#define I2C_ADDR 0x27
+#define LCD_COLS 16
+#define LCD_ROWS 2
+
+// Definición de los pines de los botones
+const int button1Pin = 6;
+const int button2Pin = 7;
+const int button3Pin = 8;
+
+// Definición de los pines de los LEDs
+const int led1Pin = 9;
+const int led2Pin = 10;
+const int led3Pin = 11;
+
+LiquidCrystal_I2C lcd(I2C_ADDR, LCD_COLS, LCD_ROWS);
+
+void setup() {
+  // Inicializar el LCD
+  lcd.init();
+
+  // Encender la retroiluminación del LCD (opcional)
+  lcd.backlight();
+
+  // Mostrar el mensaje fijo
+  lcd.setCursor(0, 0);
+  lcd.print("Proyecto Suyay ");
+  lcd.setCursor(0, 1);
+  lcd.print("-----Grupo 4----");
+
+  FPSerial.begin(9600);
+  Serial.begin(115200);
+
+  // Configurar los pines de los botones como entradas
+  pinMode(button1Pin, INPUT_PULLUP);
+  pinMode(button2Pin, INPUT_PULLUP);
+  pinMode(button3Pin, INPUT_PULLUP);
+
+  // Configurar los pines de los LEDs como salidas
+  pinMode(led1Pin, OUTPUT);
+  pinMode(led2Pin, OUTPUT);
+  pinMode(led3Pin, OUTPUT);
+
+  Serial.println();
+  Serial.println(F("DFRobot DFPlayer Mini Demo"));
+  Serial.println(F("Initializing DFPlayer ... (May take 3~5 seconds)"));
+
+  if (!myDFPlayer.begin(FPSerial, /*isACK = */true, /*doReset = */true)) {  // Uso de serial para comunicarse con mp3.
+    Serial.println(F("No se puede iniciar:"));
+    Serial.println(F("Revisa la conexión"));
+    while(true){
+      delay(0);
+    }
+  }
+  Serial.println(F("DFPlayer Mini online."));
+
+  myDFPlayer.volume(25);  // Establecer el volumen. De 0 a 30
+}
+
+void loop() {
+  // Leer el estado de los botones
+  int button1State = digitalRead(button1Pin);
+  int button2State = digitalRead(button2Pin);
+  int button3State = digitalRead(button3Pin);
+
+  // Verificar si el botón 1 está presionado
+  if (button1State == LOW) {
+    myDFPlayer.playMp3Folder(1);  // Reproducir cancion con nombre 1
+    digitalWrite(led1Pin, HIGH); // Encender el LED 1
+    delay(10000); // Mantener el LED encendido durante 5 segundos
+    digitalWrite(led1Pin, LOW); // Apagar el LED 1
+    while(digitalRead(button1Pin) == LOW); // Esperar hasta que se suelte el botón
+  }
+
+  // Verificar si el botón 2 está presionado
+  if (button2State == LOW) {
+    myDFPlayer.playMp3Folder(2);  // Reproducir la cancion con nombre 2
+    digitalWrite(led2Pin, HIGH); // Encender el LED 2
+    delay(10000); // Mantener el LED encendido durante 5 segundos
+    digitalWrite(led2Pin, LOW); // Apagar el LED 2
+    while(digitalRead(button2Pin) == LOW); // Esperar hasta que se suelte el botón
+  }
+
+  // Verificar si el botón 3 está presionado
+  if (button3State == LOW) {
+    myDFPlayer.playMp3Folder(3);  // Reproducir la cancion con nombre 3
+    digitalWrite(led3Pin, HIGH); // Encender el LED 3
+    delay(10000); // Mantener el LED encendido durante 5 segundos
+    digitalWrite(led3Pin, LOW); // Apagar el LED 3
+    while(digitalRead(button3Pin) == LOW); // Esperar hasta que se suelte el botón
+  }
+}
